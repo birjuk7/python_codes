@@ -1,2 +1,2 @@
-# python_codes
-python3 scripts
+# python_script
+python_automation scripts
